@@ -1,11 +1,11 @@
 /*
- ============================================================================
- Name        : Project_1_C.c
+ ============================================================================================================
+ Name        : Student Data Management APP
  Author      : Ahmed_Hisham
  Version     :
  Copyright   : Your copyright notice
- Description : Hello World in C, Ansi-style
- ============================================================================
+ Description : App to add, view, edit and delete student Data using Dynamic Allocation Memeory Technique
+ ============================================================================================================
  */
 
 #include <stdio.h>
